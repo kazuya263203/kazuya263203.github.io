@@ -97,7 +97,7 @@ img {
 ------------------------------- */
 
 #home {
-    background-image: url(../images02/main-bg.jpg);
+    background-image: url(../images/main-bg.jpg);
     min-height: 100vh;
 }
 
@@ -212,7 +212,7 @@ aside p {
 /* MENU */
 
 #menu {
-    background-image: url(../images02/menu-bg02.png);
+    background-image: url(../images/menu-bg02.png);
     min-height: 100vh;
 }
 
